@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">ShoppingCapstone</string>
+    <string name="action_settings">Settings</string>
 
+    <!--Navigation Drawer-->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_explore">Explore</string>
+    <string name="navigation_wish_list">Wish List</string>
+    <string name="navigation_shopping_cart">Shopping Cart</string>
 
-    <string name="action_settings">Settings</string>
+
 </resources>
